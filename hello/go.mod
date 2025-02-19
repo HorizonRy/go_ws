@@ -1,4 +1,4 @@
-module example/hello
+module github.com/HorizonRy/go_ws/hello
 
 go 1.24.0
 
